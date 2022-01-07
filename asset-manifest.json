@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/good-habits/static/css/main.1ea09745.css",
+    "main.js": "/good-habits/static/js/main.48d95864.js",
+    "static/media/recycle.png": "/good-habits/static/media/recycle.fa47a75ed4885c136191.png",
+    "index.html": "/good-habits/index.html",
+    "main.1ea09745.css.map": "/good-habits/static/css/main.1ea09745.css.map",
+    "main.48d95864.js.map": "/good-habits/static/js/main.48d95864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea09745.css",
+    "static/js/main.48d95864.js"
+  ]
+}

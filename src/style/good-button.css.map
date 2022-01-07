@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,iBAAiB,CAAC;EACd,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAahB;;AAfD,AAGI,iBAHa,CAGb,MAAM,CAAC;EACH,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO;EACf,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,gBAAgB;EAC5B,aAAa,EAAE,GAAG;EAClB,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,OAAgB;EAC5B,UAAU,EAAE,gDAAwE;EACpF,MAAM,EAAE,OAAO;CAClB",
-    "sources": [
-        "good-button.scss"
-    ],
-    "names": [],
-    "file": "good-button.css"
-}
